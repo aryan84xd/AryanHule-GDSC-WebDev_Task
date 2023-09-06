@@ -84,7 +84,7 @@ body{
 .feature::before
 {
     content: "";
-    background-image:url(img/GdscBG.png);
+    background-image:url(GdscBG.png);
     position: absolute;
     top: 60px;
     height: 900px;
@@ -159,7 +159,7 @@ transform: translateX(-2px);
 .container_1 .img1{
     width: 440px;
     height: 248px;
-    background-image: url(img/Codeshah.jpg);
+    background-image: url(Codeshah.jpg);
     z-index: 3;
     margin-left: 55px;
     margin-top: 25px;
@@ -168,7 +168,7 @@ transform: translateX(-2px);
 .container_1 .img2{
     width: 440px;
     height: 248px;
-    background-image: url(img/Flutter.jpg);
+    background-image: url(Flutter.jpg);
     z-index: 3;
     margin-left: 55px;
     margin-top: 25px;
@@ -264,7 +264,7 @@ border: 1px solid black;
 .container_3 .img11{
     width: 250px;
     height: 140px;
-    background-image: url(img/Codeshah_small.jpg);
+    background-image: url(Codeshah_small.jpg);
     z-index: 3;
     margin-left: 55px;
     margin-top: 47px;
@@ -276,7 +276,7 @@ border: 1px solid black;
 .container_3 .img21{
     width: 250px;
     height: 140px;
-    background-image: url(img/Flutter_small.jpg);
+    background-image: url(Flutter_small.jpg);
     z-index: 3;
     margin-left: 55px;
     margin-top: 47px;
@@ -286,7 +286,7 @@ border: 1px solid black;
 .container_3 .img31{
     width: 200px;
     height: 200px;
-    background-image: url(img/android.jpg);
+    background-image: url(android.jpg);
     z-index: 3;
     margin-left: 79px;
     margin-top: 23px;
@@ -296,7 +296,7 @@ border: 1px solid black;
 .container_3 .img41{
     width: 200px;
     height: 200px;
-    background-image: url(img/open\ source.jpg);
+    background-image: url(open\ source.jpg);
     z-index: 3;
     margin-left: 79px;
     margin-top: 23px;
@@ -306,7 +306,7 @@ border: 1px solid black;
 .container_3 .img51{
     width: 200px;
     height: 200px;
-    background-image: url(img/kickstarter.jpg);
+    background-image: url(kickstarter.jpg);
     z-index: 3;
     margin-left: 79px;
     margin-top: 23px;
